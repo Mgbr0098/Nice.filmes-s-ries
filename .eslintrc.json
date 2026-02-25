@@ -1,0 +1,4 @@
+// Config do ESLint para Next.js
+module.exports = {
+  extends: 'next/core-web-vitals'
+}
